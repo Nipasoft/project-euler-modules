@@ -11,6 +11,5 @@ var myModule = (function () {
     return exports;
 }());
 
-
 console.log(myModule.getSumOfMultiples(1000));
 
